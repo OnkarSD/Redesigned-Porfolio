@@ -1,7 +1,6 @@
 ### My Porfolio Website
-### Visit Here : onkar.netlify.app
-[<img align="left" alt="Onkar" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
+### Visit Here : 
+onkar.netlify.app [<img align="left" alt="Onkar" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 
 
